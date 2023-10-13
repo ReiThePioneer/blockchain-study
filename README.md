@@ -11,7 +11,7 @@ TECHIT Onboarding Track (2023.10.10 ~ 2023.11.20)<br><br/>
 - Dapp
 
 ### 2. Use Blockchain
-- wallet
+- Wallet
 - MetaMask
 
 ### 3. Smart Contract
